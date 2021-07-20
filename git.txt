@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m "the message of the commit"
+git push(-u origin master)
+
+git branch just to check how much branchs that we have
+git branch branchName to create a new branch
+git checkout "branchName" to transfer to differ branch
+git branch -b branchName still not know what it is after search in the Google
+git branch -m newBranchName
+git pull
